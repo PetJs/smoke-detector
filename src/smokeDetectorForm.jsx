@@ -25,8 +25,8 @@ const workTypeOptions = [
 ];
 
 const smokeHistoryOptions = [
-  { value: 'never smoked', label: 'Never Smoked' },
-  { value: 'formerly smoked', label: 'Formerly Smoked' },
+  { value: 'Bever smoked', label: 'Never Smoked' },
+  { value: 'Formerly smoked', label: 'Formerly Smoked' },
   { value: 'Smokes', label: 'Smokes' },
   { value: 'Unknown', label: 'Unknown' },
 ];
